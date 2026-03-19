@@ -1,2 +1,3 @@
-# prime-marketplace-9rsi
-Automated issue comment bot repository
+# Prime Marketplace 9Rsi
+
+Automated issue comment bot repository.
